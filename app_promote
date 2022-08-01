@@ -1,0 +1,20 @@
+[
+   {
+       "imageUrl": "https://user-images.githubusercontent.com/54734573/178098316-7c1ffbfa-5c29-4e05-8038-343e5a5f885f.png",
+       "title":"Title 1",
+       "description":"description 1",
+       "appPackage":"appPackage 1"
+   },
+   {
+       "imageUrl": "https://user-images.githubusercontent.com/54734573/178098224-54d76af9-b1da-445f-9f89-5a94e0348487.png",
+       "title":"Title 2",
+       "description":"description 2",
+       "appPackage":"appPackage 2"
+   },
+   {
+       "imageUrl": "https://user-images.githubusercontent.com/54734573/178098225-c416c5ab-a3f0-4568-a96a-045f354e7f8d.png",
+       "title":"Title 3",
+       "description":"description 3",
+       "appPackage":"appPackage 3"
+   }
+]

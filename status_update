@@ -1,5 +1,5 @@
 {
-	"version": 6,
+	"version": 7,
 	"imageUrl": "https://user-images.githubusercontent.com/54734573/170860394-30982bb0-9e10-48ec-b186-25187b880667.png",
 	"description": "JSONLint is a validator and reformatter for JSON, a lightweight data-interchange format. Copy and paste, directly type, or input a URL in the editor above and let JSONLint tidy and validate your messy JSON code."
 }

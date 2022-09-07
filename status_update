@@ -1,6 +1,6 @@
 {
-	"version": 5,
-	"imageUrl": "https://user-images.githubusercontent.com/54734573/170860394-30982bb0-9e10-48ec-b186-25187b880667.png",
-	"description": "নতুন ভার্সন এসেছে, এখনি আপডেট করুন",
-	"buttonText":"Update Now"
+	"version": 8,
+	"imageUrl": "https://user-images.githubusercontent.com/54734573/188781617-0df8d00d-9b02-4543-a234-7cce6168007e.png",
+	"description": "আনলিমিটেড স্ট্যাটাস ছবি সহ ডাউনলোড করতে এখনি অ্যাপটি আপডেট করে নিন।",
+	"buttonText":"আপডেট"
 }

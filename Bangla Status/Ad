@@ -3,6 +3,5 @@
 	"quotesBanner": true,
 	"imageBanner": true,
 	"exitNative": true,
-	"wallpaperNative": true,
-	"loadAdTimer": 45000
+	"wallpaperNative": true
 }

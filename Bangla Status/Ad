@@ -1,6 +1,6 @@
 {
 	"mainBanner": true,
-	"quotesBanner": false,
+	"quotesBanner": true,
 	"imageBanner": true,
 	"exitNative": true,
 	"wallpaperNative": true,

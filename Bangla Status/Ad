@@ -1,8 +1,8 @@
 {
-	"mainBanner": true,
+	"mainBanner": false,
 	"quotesBanner": false,
-	"imageBanner": true,
-	"exitNative": true,
+	"imageBanner": false,
+	"exitNative": false,
 	"wallpaperNative": true,
-	"adLoadTimer": 60000
+	"adLoadTimer": 70000
 }

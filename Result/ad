@@ -1,5 +1,5 @@
 {
 	"mainBanner": true,
-	"websiteBanner": false,
+	"websiteBanner": truee,
 	"adLoadTimer": 70000
 }

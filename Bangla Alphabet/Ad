@@ -1,5 +1,10 @@
-{
-	"mainBanner": true,
-	"websiteBanner": false,
-	"adLoadTimer": 70000
-}
+    {
+            "mainBanner": false,
+            "learnBanner": false,
+            "findNumberBanner": false,
+            "dayBanner": false,
+            "introductionBanner": false,
+            "storyBanner": false,
+            "animalSoundBanner": false,
+            "adLoadTimer": 70000
+    }

@@ -1,5 +1,5 @@
     {
-            "mainBanner": true,
+            "mainBanner": false,
             "learnBanner": true,
             "findNumberBanner": true,
             "dayBanner": true,

@@ -1,8 +1,8 @@
     {
-            "mainBanner": true,
-            "learnBanner": true,
-            "findNumberBanner": true,
-            "dayBanner": true,
+            "mainBanner": false,
+            "learnBanner": false,
+            "findNumberBanner": false,
+            "dayBanner": false,
             "introductionBanner": false,
             "storyBanner": false,
             "animalSoundBanner": false,

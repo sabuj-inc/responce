@@ -5,6 +5,6 @@
             "dayBanner": false,
             "introductionBanner": false,
             "storyBanner": false,
-            "animalSoundBanner": false,
+            "animalSoundBanner": true,
             "adLoadTimer": 180000
     }

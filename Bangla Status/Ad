@@ -4,5 +4,5 @@
 	"imageBanner": false,
 	"exitNative": false,
 	"wallpaperNative": true,
-	"adLoadTimer": 70000
+	"adLoadTimer": 80000
 }

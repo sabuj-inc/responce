@@ -2,7 +2,7 @@
 	"mainBanner": true,
 	"quotesBanner": false,
 	"imageBanner": false,
-	"exitNative": true,
+	"exitNative": false,
 	"wallpaperNative": false,
-	"adLoadTimer": 30000
+	"adLoadTimer": 80000
 }

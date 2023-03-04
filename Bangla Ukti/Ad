@@ -3,6 +3,6 @@
 	"quotesBanner": false,
 	"imageBanner": false,
 	"exitNative": true,
-	"wallpaperNative": true,
+	"wallpaperNative": false,
 	"adLoadTimer": 30000
 }

@@ -1,0 +1,8 @@
+{
+	"mainBanner": true,
+	"quotesBanner": true,
+	"imageBanner": true,
+	"nottificationNative": true,
+	"wallpaperNative": true,
+	"adLoadTimer": 10
+}

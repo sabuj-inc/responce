@@ -3,7 +3,7 @@
 	"quotesBanner": true,
 	"imageBanner": true,
 	"loadInterstitial": true,
-	"notificationNative": false,
+	"notificationNative": true,
 	"wallpaperNative": false,
 	"adLoadTimer": 30000
 }

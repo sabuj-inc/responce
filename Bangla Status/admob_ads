@@ -2,7 +2,7 @@
 	"mainBanner": true,
 	"quotesBanner": true,
 	"imageBanner": true,
-	"nottificationNative": true,
+	"notificationNative": true,
 	"wallpaperNative": true,
-	"adLoadTimer": 10
+	"adLoadTimer": 30000
 }

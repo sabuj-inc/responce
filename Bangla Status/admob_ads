@@ -4,6 +4,6 @@
 	"imageBanner": true,
 	"loadInterstitial": true,
 	"notificationNative": true,
-	"wallpaperNative": false,
+	"wallpaperNative": true,
 	"adLoadTimer": 30000
 }

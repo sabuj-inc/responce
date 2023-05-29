@@ -2,7 +2,7 @@
 	"mainBanner": true,
 	"quotesBanner": true,
 	"imageBanner": true,
-	"loadInterstitial": false,
+	"loadInterstitial": true,
 	"notificationNative": false,
 	"wallpaperNative": false,
 	"adLoadTimer": 30000

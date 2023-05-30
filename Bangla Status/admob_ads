@@ -1,6 +1,6 @@
 {
 	"mainBanner": false,
-	"quotesBanner": true,
+	"quotesBanner": false,
 	"imageBanner": true,
 	"loadInterstitial": true,
 	"notificationNative": true,

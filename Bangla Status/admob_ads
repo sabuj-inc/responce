@@ -1,10 +1,10 @@
 {
-	"mainBanner": true,
-	"quotesBanner": true,
-	"imageBanner": true,
-	"loadInterstitial": true,
-	"notificationNative": true,
-	"wallpaperNative": true,
-	"adLoadTimer": 30000,
+	"mainBanner": false,
+	"quotesBanner": false,
+	"imageBanner": false,
+	"loadInterstitial": false,
+	"notificationNative": false,
+	"wallpaperNative": false,
+	"adLoadTimer": 600000,
 	"notificationShowTimer": 1800000
 }

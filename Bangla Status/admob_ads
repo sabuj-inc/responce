@@ -1,5 +1,5 @@
 {
-	"mainBanner": true,
+	"mainBanner": false,
 	"quotesBanner": true,
 	"imageBanner": true,
 	"loadInterstitial": true,

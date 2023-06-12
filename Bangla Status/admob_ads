@@ -6,5 +6,5 @@
 	"notificationNative": false,
 	"wallpaperNative": false,
 	"adLoadTimer": 300000,
-	"notificationShowTimer": 3600000
+	"notificationShowTimer": 1800000
 }

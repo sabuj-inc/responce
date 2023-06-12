@@ -5,6 +5,6 @@
 	"loadInterstitial": true,
 	"notificationNative": false,
 	"wallpaperNative": false,
-	"adLoadTimer": 300000,
+	"adLoadTimer": 180000,
 	"notificationShowTimer": 1800000
 }

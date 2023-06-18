@@ -1,6 +1,6 @@
 {
 	"version": 9,
-	"isShowUpdate":true,
+	"isShowUpdate":false,
 	"updateImageUrl": "https://user-images.githubusercontent.com/54734573/189430283-368bdfba-1ab4-43bf-b71a-597f40beb25c.png",
 	"updateDescription": "আনলিমিটেড স্ট্যাটাস ছবি সহ ডাউনলোড করতে এখনি অ্যাপটি আপডেট করে নিন।",
 	"updateButtonText":"আপডেট",

@@ -1,8 +1,10 @@
 {
 	"version": 9,
+	"isShowUpdate":true,
 	"updateImageUrl": "https://user-images.githubusercontent.com/54734573/189430283-368bdfba-1ab4-43bf-b71a-597f40beb25c.png",
 	"updateDescription": "আনলিমিটেড স্ট্যাটাস ছবি সহ ডাউনলোড করতে এখনি অ্যাপটি আপডেট করে নিন।",
 	"updateButtonText":"আপডেট",
+	"isShowPromotion":true,
   	"promotionImageUrl": "https://i.postimg.cc/sx5T2X0j/full.png",
   	"promotionDescription":"আপনার পরীক্ষার রেজাল্ট মনে আছে?🤔 দেখতে চাইলে ডাউনলোড করুন",
 	"promotionButtonText":"ডাউনলোড",

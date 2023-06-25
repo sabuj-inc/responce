@@ -1,0 +1,8 @@
+{
+	"mainBanner": false,
+	"quotesBanner": false,
+	"imageBanner": false,
+	"loadInterstitial": true,
+	"adLoadTimer": 180000,
+	"notificationShowTimer": 1800000
+}

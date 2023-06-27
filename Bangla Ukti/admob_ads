@@ -2,7 +2,7 @@
 	"mainBanner": false,
 	"quotesBanner": false,
 	"imageBanner": false,
-	"loadInterstitial": true,
-	"adLoadTimer": 30000,
+	"loadInterstitial": false,
+	"adLoadTimer": 1800000,
 	"notificationShowTimer": 1800000
 }

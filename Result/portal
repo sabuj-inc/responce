@@ -1,0 +1,11 @@
+{
+	"isPortalShow": true,
+	"isServer2Show": true,
+  "portalImageUrl": "https://assets.materialup.com/uploads/02f2b444-495a-40d0-ad5f-4ff86933fc73/attachment.jpg",
+  "portalTitle": "SSC 2023",
+  "portalFull": "SSC Full Description",
+  "server1Text": "Server m 1",
+  "server1Action": "https://www.facebook.com",
+  "server2Text": "Server m 2",
+  "server2Action": "https://www.google.com"
+}

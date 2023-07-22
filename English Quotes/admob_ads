@@ -1,7 +1,7 @@
 {
 	"mainBanner": true,
 	"quotesBanner": true,
-	"loadInterstitial": true,
+	"loadInterstitial": false,
 	"adLoadTimer": 100,
 	"notificationShowTimer": 30000
 }

@@ -3,5 +3,5 @@
 	"quotesBanner": false,
 	"loadInterstitial": false,
 	"adLoadTimer": 18000000,
-	"notificationShowTimer": 18000000
+	"notificationShowTimer": 180
 }

@@ -1,5 +1,5 @@
 [{
-"category": "Alone",
+"category": "Cat 1",
 	
 "images" : [
     {"imageUrl": "https://user-images.githubusercontent.com/54734573/178098210-eb11968d-7d12-412b-bbad-0d194ea2e5b8.png"},
@@ -8,7 +8,7 @@
     {"imageUrl": "https://user-images.githubusercontent.com/54734573/178098217-3e3f8371-2fb0-423a-a51c-a6ea6c53b622.png"}
 ]},
 {
-"category": "Alone",
+"category": "Cat 2",
 	
 "images" : [
     {"imageUrl": "https://user-images.githubusercontent.com/54734573/178098210-eb11968d-7d12-412b-bbad-0d194ea2e5b8.png"},
@@ -17,7 +17,7 @@
     {"imageUrl": "https://user-images.githubusercontent.com/54734573/178098217-3e3f8371-2fb0-423a-a51c-a6ea6c53b622.png"}
 ]},
 {
-"category": "Alone",
+"category": "Cat 3",
 	
 "images" : [
     {"imageUrl": "https://user-images.githubusercontent.com/54734573/178098210-eb11968d-7d12-412b-bbad-0d194ea2e5b8.png"},
@@ -26,7 +26,7 @@
     {"imageUrl": "https://user-images.githubusercontent.com/54734573/178098217-3e3f8371-2fb0-423a-a51c-a6ea6c53b622.png"}
 ]},
 {
-"category": "Alone",
+"category": "Cat 4",
 	
 "images" : [
     {"imageUrl": "https://user-images.githubusercontent.com/54734573/178098210-eb11968d-7d12-412b-bbad-0d194ea2e5b8.png"},
@@ -35,7 +35,7 @@
     {"imageUrl": "https://user-images.githubusercontent.com/54734573/178098217-3e3f8371-2fb0-423a-a51c-a6ea6c53b622.png"}
 ]},
 {
-"category": "Sad",
+"category": "Cat 5",
 	
 "images" : [
     {"imageUrl": "https://user-images.githubusercontent.com/54734573/178098210-eb11968d-7d12-412b-bbad-0d194ea2e5b8.png"},

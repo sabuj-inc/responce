@@ -4,5 +4,5 @@
 	"imageBanner": false,
 	"loadInterstitial": true,
 	"adLoadTimer": 180000,
-	"notificationShowTimer": 7200000
+	"notificationShowTimer": 36000000
 }

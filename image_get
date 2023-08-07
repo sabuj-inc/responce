@@ -1,6 +1,6 @@
 [{
 "category": "Cat 1",
-	
+"icon": "https://imgtr.ee/images/2023/08/07/163bfdaa996a95d73584e4b3a808c518.png",
 "images" : [
     {"imageUrl": "https://user-images.githubusercontent.com/54734573/178131701-646649dd-9031-420c-a02d-4ddeb4ddef3f.png"},
     {"imageUrl": "https://user-images.githubusercontent.com/54734573/178131702-58d2f46b-9fbb-402d-9864-b72fd75190c3.png"},
@@ -8,7 +8,7 @@
 ]},
 {
 "category": "Cat 2",
-	
+"icon": "https://imgtr.ee/images/2023/08/07/163bfdaa996a95d73584e4b3a808c518.png",	
 "images" : [
     {"imageUrl": "https://user-images.githubusercontent.com/54734573/178131695-f695e75a-a560-45c5-ae66-59fb79df3ee5.png"},
     {"imageUrl": "https://user-images.githubusercontent.com/54734573/178131696-4af642c7-dece-4204-950b-11b5a9c68059.png"},
@@ -19,7 +19,7 @@
 ]},
 {
 "category": "Cat 3",
-	
+"icon": "https://imgtr.ee/images/2023/08/07/163bfdaa996a95d73584e4b3a808c518.png",	
 "images" : [
         {"imageUrl": "https://user-images.githubusercontent.com/54734573/178131686-a2629659-7ee0-47d2-8228-50b978031abf.png"},
     {"imageUrl": "https://user-images.githubusercontent.com/54734573/178131687-55345390-e412-4b29-8c9c-5dc8abed20c0.png"},
@@ -29,14 +29,14 @@
 ]},
 {
 "category": "Cat 4",
-	
+"icon": "https://imgtr.ee/images/2023/08/07/163bfdaa996a95d73584e4b3a808c518.png",	
 "images" : [
         {"imageUrl": "https://user-images.githubusercontent.com/54734573/178131684-35e56875-aea3-4087-961c-18b8d113ce3a.png"},
     {"imageUrl": "https://user-images.githubusercontent.com/54734573/178131685-22d0b802-77ae-4b0b-9cfa-7e74ee224e7b.png"}
 ]},
 {
 "category": "Cat 5",
-	
+"icon": "https://imgtr.ee/images/2023/08/07/163bfdaa996a95d73584e4b3a808c518.png",	
 "images" : [
     {"imageUrl": "https://user-images.githubusercontent.com/54734573/178098214-60a4566b-98ea-44ac-8409-a0ba214f6849.png"},
     {"imageUrl": "https://user-images.githubusercontent.com/54734573/178098216-2317f5dc-ee60-4e40-b34c-5c5e04463fda.png"},

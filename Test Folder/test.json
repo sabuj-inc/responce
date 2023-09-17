@@ -1,1 +1,36 @@
-
+[{
+	"departmentName": "all",
+	"updateTitle": "Nimpata",
+	"updateCover": "https://imgtr.ee/images/2023/08/07/163bfdaa996a95d73584e4b3a808c518.png",
+	"imageList": [
+    	{"imageUrl": "https://user-images.githubusercontent.com/54734573/178098224-54d76af9-b1da-445f-9f89-5a94e0348487.png"}
+]},
+{
+	"departmentName": "arts",
+	"updateTitle": "arts name",
+	"updateCover": "https://imgtr.ee/images/2023/08/07/163bfdaa996a95d73584e4b3a808c518.png",
+	"imageList": [
+    	{"imageUrl": "https://user-images.githubusercontent.com/54734573/178098224-54d76af9-b1da-445f-9f89-5a94e0348487.png"},
+    	{"imageUrl": "https://user-images.githubusercontent.com/54734573/178098224-54d76af9-b1da-445f-9f89-5a94e0348487.png"},
+    	{"imageUrl": "https://user-images.githubusercontent.com/54734573/178098224-54d76af9-b1da-445f-9f89-5a94e0348487.png"}
+    	]
+},{
+	"departmentName": "science",
+	"updateTitle": "seience subject name",
+	"updateCover": "https://imgtr.ee/images/2023/08/07/163bfdaa996a95d73584e4b3a808c518.png",
+	"imageList": [
+    	{"imageUrl": "https://user-images.githubusercontent.com/54734573/178098224-54d76af9-b1da-445f-9f89-5a94e0348487.png"},
+    	{"imageUrl": "https://user-images.githubusercontent.com/54734573/178098224-54d76af9-b1da-445f-9f89-5a94e0348487.png"},
+    	{"imageUrl": "https://user-images.githubusercontent.com/54734573/178098224-54d76af9-b1da-445f-9f89-5a94e0348487.png"}
+    	]
+},
+{
+	"departmentName": "commerce",
+	"updateTitle": "commerce subject name",
+	"updateCover": "https://imgtr.ee/images/2023/08/07/163bfdaa996a95d73584e4b3a808c518.png",
+	"imageList": [
+    	{"imageUrl": "https://user-images.githubusercontent.com/54734573/178098224-54d76af9-b1da-445f-9f89-5a94e0348487.png"},
+    	{"imageUrl": "https://user-images.githubusercontent.com/54734573/178098224-54d76af9-b1da-445f-9f89-5a94e0348487.png"}
+    	]
+}
+]

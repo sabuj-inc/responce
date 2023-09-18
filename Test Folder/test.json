@@ -3,16 +3,20 @@
 	"updateTitle": "Nimpata",
 	"updateCover": "https://user-images.githubusercontent.com/54734573/178098223-cbc4cf92-6478-4f73-beb4-bf7af86e3b4e.png",
 	"imageList": [
-    	{"imageUrl": "https://user-images.githubusercontent.com/54734573/178098224-54d76af9-b1da-445f-9f89-5a94e0348487.png"}
+    	{"imageUrl": "https://user-images.githubusercontent.com/54734573/178098210-eb11968d-7d12-412b-bbad-0d194ea2e5b8.png"},
+    	{"imageUrl": "https://user-images.githubusercontent.com/54734573/178098214-60a4566b-98ea-44ac-8409-a0ba214f6849.png"},
+    	{"imageUrl": "https://user-images.githubusercontent.com/54734573/178098216-2317f5dc-ee60-4e40-b34c-5c5e04463fda.png"}
 ]},
 {
 	"departmentName": "arts",
 	"updateTitle": "arts name",
 	"updateCover": "https://user-images.githubusercontent.com/54734573/178098222-df522a4a-a2a6-4674-8843-a52a265f76de.png",
 	"imageList": [
-    	{"imageUrl": "https://user-images.githubusercontent.com/54734573/178098224-54d76af9-b1da-445f-9f89-5a94e0348487.png"},
-    	{"imageUrl": "https://user-images.githubusercontent.com/54734573/178098224-54d76af9-b1da-445f-9f89-5a94e0348487.png"},
-    	{"imageUrl": "https://user-images.githubusercontent.com/54734573/178098224-54d76af9-b1da-445f-9f89-5a94e0348487.png"}
+    	{"imageUrl": "https://user-images.githubusercontent.com/54734573/178098217-3e3f8371-2fb0-423a-a51c-a6ea6c53b622.png"},
+    {"imageUrl": "https://user-images.githubusercontent.com/54734573/178098218-be4ebb74-d480-4e5e-b502-d56f7cfc9245.png"},
+    {"imageUrl": "https://user-images.githubusercontent.com/54734573/178098219-edd97494-71dd-4d20-9390-3166a775e81e.png"},
+    {"imageUrl": "https://user-images.githubusercontent.com/54734573/178098222-df522a4a-a2a6-4674-8843-a52a265f76de.png"},
+    {"imageUrl": "https://user-images.githubusercontent.com/54734573/178098223-cbc4cf92-6478-4f73-beb4-bf7af86e3b4e.png"}
     	]
 },{
 	"departmentName": "science",
@@ -20,8 +24,7 @@
 	"updateCover": "https://user-images.githubusercontent.com/54734573/178098219-edd97494-71dd-4d20-9390-3166a775e81e.png",
 	"imageList": [
     	{"imageUrl": "https://user-images.githubusercontent.com/54734573/178098224-54d76af9-b1da-445f-9f89-5a94e0348487.png"},
-    	{"imageUrl": "https://user-images.githubusercontent.com/54734573/178098224-54d76af9-b1da-445f-9f89-5a94e0348487.png"},
-    	{"imageUrl": "https://user-images.githubusercontent.com/54734573/178098224-54d76af9-b1da-445f-9f89-5a94e0348487.png"}
+    	{"imageUrl": "https://user-images.githubusercontent.com/54734573/178098225-c416c5ab-a3f0-4568-a96a-045f354e7f8d.png"}
     	]
 },
 {
@@ -29,8 +32,12 @@
 	"updateTitle": "commerce subject name",
 	"updateCover": "https://user-images.githubusercontent.com/54734573/178098224-54d76af9-b1da-445f-9f89-5a94e0348487.png",
 	"imageList": [
-    	{"imageUrl": "https://user-images.githubusercontent.com/54734573/178098224-54d76af9-b1da-445f-9f89-5a94e0348487.png"},
-    	{"imageUrl": "https://user-images.githubusercontent.com/54734573/178098224-54d76af9-b1da-445f-9f89-5a94e0348487.png"}
+    	{"imageUrl": "https://user-images.githubusercontent.com/54734573/178098227-b7b98b7e-c752-4301-93b5-c8dab1d4dcac.png"},
+    	{"imageUrl": "https://user-images.githubusercontent.com/54734573/178098228-8858e842-ce1f-4b22-a46a-65a4697f0552.png"},
+    	{"imageUrl": "https://user-images.githubusercontent.com/54734573/178098232-82418d0b-0bf9-4909-8d83-963e9c08d08c.png"},
+    	{"imageUrl": "https://user-images.githubusercontent.com/54734573/178098233-a961521c-35f5-4b9d-af20-0504a94b5c14.png"},
+    	{"imageUrl": "https://user-images.githubusercontent.com/54734573/178098234-6c16266e-c678-4238-876b-e51706eca296.png"},
+    	{"imageUrl": "https://user-images.githubusercontent.com/54734573/178098235-c20245cd-ee56-4263-9f3f-a8d414199a75.png"}
     	]
 }
 ]

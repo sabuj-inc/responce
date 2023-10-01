@@ -3,6 +3,6 @@
 	"quotesBanner": false,
 	"imageBanner": false,
 	"loadInterstitial": true,
-	"adLoadTimer": 180000,
+	"adLoadTimer": 300000,
 	"notificationShowTimer": 36000000
 }

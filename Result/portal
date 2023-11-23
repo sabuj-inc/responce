@@ -1,11 +1,11 @@
 {
-	"isPortalShow": false,
-	"isServer2Show": false,
-  	"portalImageUrl": "https://assets.materialup.com/uploads/02f2b444-495a-40d0-ad5f-4ff86933fc73/attachment.jpg",
-  	"portalTitle": "SSC 2023",
-  	"portalFull": "এসএসসির ফলাফল প্রকাশ হয়েছে",
+	"isPortalShow": true,
+	"isServer2Show": true,
+  	"portalImageUrl": "https://github.com/sabuj-inc/responce/assets/54734573/d22a09a1-85a2-4a39-adf1-fe55d3f78b2f",
+  	"portalTitle": "HSC রেজাল্ট ২০২৩",
+  	"portalFull": "আগামী ২৬ তারিখ প্রকাশ পাবে ২০২৩ সালের এইচএসসি ও আলিম পরীক্ষার ফলাফল",
   	"server1Text": "ভিজিট করুন",
-  	"server1Action": "https://eboardresults.com/v2/home",
+  	"server1Action": "http://www.educationboardresults.gov.bd/",
   	"server2Text": "বিকল্প",
-  	"server2Action": "https://www.google.com"
+  	"server2Action": "https://eboardresults.com/v2/home"
 }

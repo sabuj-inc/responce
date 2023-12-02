@@ -40,5 +40,11 @@
        "thumbnail": "https://rifatranabd.github.io/Children-s-Book/Bangla/Thumbnail/07.jpg",
        "main_image": "https://rifatranabd.github.io/Children-s-Book/Bangla/Img/07.jpg",
        "audio":"https://rifatranabd.github.io/Children-s-Book/Bangla/Audio/07.mp3"
+   },
+   {   
+       "title": "kobita 8",
+       "thumbnail": "https://rifatranabd.github.io/Children-s-Book/Bangla/Thumbnail/08.jpg",
+       "main_image": "https://rifatranabd.github.io/Children-s-Book/Bangla/Img/08.jpg",
+       "audio":"https://rifatranabd.github.io/Children-s-Book/Bangla/Audio/08.mp3"
    }
 ]

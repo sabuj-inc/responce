@@ -1,0 +1,10 @@
+    {
+            "mainBanner": false,
+            "learnBanner": false,
+            "findNumberBanner": false,
+            "dayBanner": false,
+            "introductionBanner": false,
+            "storyBanner": false,
+            "animalSoundBanner": false,
+            "adLoadTimer": 100
+    }

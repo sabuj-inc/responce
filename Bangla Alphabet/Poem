@@ -1,8 +1,13 @@
 [
    {   
        "title": "মামার বাড়ি",
+       "thumbnail": "https://github.com/hackbypdf/abir0044/assets/147275710/d06109cb-9526-411c-b147-60c653fb4cec",
+       "main_image": "https://github.com/hackbypdf/abir0044/assets/147275710/d06109cb-9526-411c-b147-60c653fb4cec",
+       "audio":"https://dl.sndup.net/wr75/01.mp3"
+   },{   
+       "title": "মামার বাড়ি",
        "thumbnail": "https://github.com/sabuj-inc/responce/assets/54734573/ad93820f-223f-4519-ad77-f7187e178ac2",
        "main_image": "https://github.com/sabuj-inc/responce/assets/54734573/af3c087d-4032-4495-bc71-1a48bb085a8e",
-       "audio":"https://dl.sndup.net/wr75/01.mp3"
+       "audio":"https://dl.sndup.net/s62p/2.mp3"
    }
 ]

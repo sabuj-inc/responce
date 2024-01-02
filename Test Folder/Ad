@@ -6,5 +6,6 @@
             "introductionBanner": false,
             "storyBanner": false,
             "animalSoundBanner": false,
-            "adLoadTimer": 1000000
+            "loadInterstitial": true,
+            "adLoadTimer": 10
     }

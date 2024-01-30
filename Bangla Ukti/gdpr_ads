@@ -1,7 +1,7 @@
 {
-	"mainBanner": true,
-	"quotesBanner": true,
-	"imageBanner": true,
-	"loadInterstitial": false,
+	"mainBanner": false,
+	"quotesBanner": false,
+	"imageBanner": false,
+	"loadInterstitial": true,
 	"adLoadTimer": 300000
 }

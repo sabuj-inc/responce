@@ -1,14 +1,8 @@
 [
    {
-       "imageUrl": "https://user-images.githubusercontent.com/54734573/170860500-73c9c746-d5c3-4f8e-996c-18580617dcba.png",
-       "title":"সকল পরীক্ষার রেজাল্ট",
-       "description":"PSC,JSC, SSC, HSC, NU, BOU,7 Collage, Diploma সহ সকল পরীক্ষার ফলাফল ও মার্কশিট ডাউনলোড একটি অ্যাপে।",
-       "appPackage":"https://play.google.com/store/apps/details?id=com.binary.result"
-   },
-   {
-       "imageUrl": "https://user-images.githubusercontent.com/54734573/170860450-2ebad3b1-fa91-46b4-94f9-941eb0829f64.png",
-       "title":"QR Code Scanner & Generator",
-       "description":"WiFi পাসওয়ার্ড স্ক্যান সহ সকল ধরণের QR Code স্ক্যান ও তৈরি করুন।",
-       "appPackage":"https://play.google.com/store/apps/details?id=qr.qrcode.scanner.barcode.barcodescanner.scanner.generator"
+       "imageUrl": "https://user-images.githubusercontent.com/54734573/189430283-368bdfba-1ab4-43bf-b71a-597f40beb25c.png",
+       "title":"বিখ্যাত বাংলা উক্তি ও বাণী",
+       "description":"ধন্যবাদ অ্যাপটি ব্যবহার করার জন্য। অ্যাপটি ভালো লাগলে ৫ স্টার রেটিং দিয়ে আপনার মূল্যবান মতামত আমাদের জানান।",
+       "appPackage":"https://play.google.com/store/apps/details?id=com.binary.banglaukti"
    }
 ]

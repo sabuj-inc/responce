@@ -1,8 +1,8 @@
 [
    {
-       "imageUrl": "https://user-images.githubusercontent.com/54734573/170860450-2ebad3b1-fa91-46b4-94f9-941eb0829f64.png",
-       "title":"QR Code Scanner & Generator",
-       "description":"WiFi পাসওয়ার্ড স্ক্যান সহ সকল ধরণের QR Code স্ক্যান ও তৈরি করুন।",
-       "appPackage":"https://play.google.com/store/apps/details?id=qr.qrcode.scanner.barcode.barcodescanner.scanner.generator"
+       "imageUrl": "https://github.com/sabuj-inc/responce/assets/54734573/196ebfcf-f390-4652-a447-60e4640edab0",
+       "title":"বাংলা স্ট্যাটাস ও ক্যাপশন",
+       "description":"অ্যাপটি ভালো লাগলে ৫ স্টার রেটিং দিয়ে আপনার মূল্যবান মতামত আমাদের জানান। ধন্যবাদ অ্যাপটি ব্যবহার করার জন্য।",
+       "appPackage":"https://play.google.com/store/apps/details?id=com.binary.banglastatus"
    }
 ]

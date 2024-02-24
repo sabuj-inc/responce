@@ -1,11 +1,13 @@
 [{
 	"category": "Cat 1",
+	"isEvent": "false",
 	"icon": "https://imgtr.ee/images/2023/08/07/163bfdaa996a95d73584e4b3a808c518.png",
 	"images": [
     	{"imageUrl": "https://user-images.githubusercontent.com/54734573/178098224-54d76af9-b1da-445f-9f89-5a94e0348487.png"}
 ]},
 {
 	"category": "Cat 2",
+	"isEvent": "false",
 	"icon": "https://imgtr.ee/images/2023/08/07/163bfdaa996a95d73584e4b3a808c518.png",
 	"images": [
     	{"imageUrl": "https://user-images.githubusercontent.com/54734573/178098210-eb11968d-7d12-412b-bbad-0d194ea2e5b8.png"},
@@ -118,42 +120,49 @@
 ]},
 {
 	"category": "Cat 3",
+	"isEvent": "false",
 	"icon": "https://imgtr.ee/images/2023/08/07/163bfdaa996a95d73584e4b3a808c518.png",
 	"images": [
     	{"imageUrl": "https://user-images.githubusercontent.com/54734573/178098222-df522a4a-a2a6-4674-8843-a52a265f76de.png"}
 ]},
 {
 	"category": "Cat 4",
+	"isEvent": "false",
 	"icon": "https://imgtr.ee/images/2023/08/07/163bfdaa996a95d73584e4b3a808c518.png",
 	"images": [
     	{"imageUrl": "https://user-images.githubusercontent.com/54734573/178098219-edd97494-71dd-4d20-9390-3166a775e81e.png"}
 ]},
 {
 	"category": "Cat 5",
+	"isEvent": "false",
 	"icon": "https://imgtr.ee/images/2023/08/07/163bfdaa996a95d73584e4b3a808c518.png",
 	"images": [
     	{"imageUrl": "https://user-images.githubusercontent.com/54734573/178098218-be4ebb74-d480-4e5e-b502-d56f7cfc9245.png"}
 ]},
 {
 	"category": "Cat 6",
+	"isEvent": "false",
 	"icon": "https://imgtr.ee/images/2023/08/07/163bfdaa996a95d73584e4b3a808c518.png",
 	"images": [
     	{"imageUrl": "https://user-images.githubusercontent.com/54734573/178098217-3e3f8371-2fb0-423a-a51c-a6ea6c53b622.png"}
 ]},
 {
 	"category": "Cat 7",
+	"isEvent": "false",
 	"icon": "https://imgtr.ee/images/2023/08/07/163bfdaa996a95d73584e4b3a808c518.png",
 	"images": [
     	{"imageUrl": "https://user-images.githubusercontent.com/54734573/178098216-2317f5dc-ee60-4e40-b34c-5c5e04463fda.png"}
 ]},
 {
 	"category": "Cat 8",
+	"isEvent": "true",
 	"icon": "https://imgtr.ee/images/2023/08/07/163bfdaa996a95d73584e4b3a808c518.png",
 	"images": [
     	{"imageUrl": "https://user-images.githubusercontent.com/54734573/178098214-60a4566b-98ea-44ac-8409-a0ba214f6849.png"}
 ]},
 {
 	"category": "Cat 9",
+	"isEvent": "true",
 	"icon": "https://imgtr.ee/images/2023/08/07/163bfdaa996a95d73584e4b3a808c518.png",
 	"images": [
     	 {"imageUrl": "https://user-images.githubusercontent.com/54734573/178098210-eb11968d-7d12-412b-bbad-0d194ea2e5b8.png"}

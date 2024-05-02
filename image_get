@@ -30,7 +30,7 @@
         {"imageUrl": "https://github.com/hackbypdf/m/assets/147275710/e83b26a6-44a5-4ecf-a2ca-767f2270d89e"}
 ]},
 {
-	"category": "Attidute",
+	"category": "এটিটিউড",
 	"isEvent": "false",
 	"icon": "https://user-images.githubusercontent.com/54734573/178131687-55345390-e412-4b29-8c9c-5dc8abed20c0.png",
 	"images": [
@@ -59,7 +59,7 @@
         {"imageUrl": "https://user-images.githubusercontent.com/54734573/178098249-07c99ca6-3d1d-42d8-9b0b-dbeea6674265.png"}
 ]},
 {
-	"category": "Brekup",
+	"category": "ব্রেকআপ",
 	"isEvent": "false",
 	"icon": "https://imgtr.ee/images/2023/08/07/163bfdaa996a95d73584e4b3a808c518.png",
 	"images": [
@@ -98,7 +98,7 @@
         {"imageUrl": "https://user-images.githubusercontent.com/54734573/178098210-eb11968d-7d12-412b-bbad-0d194ea2e5b8.png"}
 ]},
 {
-	"category": "Funny",
+	"category": "মজার",
 	"isEvent": "false",
 	"icon": "https://imgtr.ee/images/2023/08/07/163bfdaa996a95d73584e4b3a808c518.png",
 	"images": [
@@ -120,7 +120,7 @@
         {"imageUrl": "https://github.com/hackbypdf/m/assets/147275710/0a777631-9ff8-4b84-9dac-9957f503d865"}
 ]},
 {
-	"category": "Islamic",
+	"category": "ইসলামিক",
 	"isEvent": "false",
 	"icon": "https://imgtr.ee/images/2023/08/07/163bfdaa996a95d73584e4b3a808c518.png",
 	"images": [
@@ -171,7 +171,7 @@
         {"imageUrl": "https://user-images.githubusercontent.com/54734573/178098222-df522a4a-a2a6-4674-8843-a52a265f76de.png"}
 ]},
 {
-	"category": "Motivational",
+	"category": "মোটিভেশন",
 	"isEvent": "false",
 	"icon": "https://imgtr.ee/images/2023/08/07/163bfdaa996a95d73584e4b3a808c518.png",
 	"images": [
@@ -204,7 +204,7 @@
         {"imageUrl": "https://user-images.githubusercontent.com/54734573/178098279-0b5c3b5b-e4fb-436e-87a1-8ec5e3ca7de0.png"}
 ]},
 {
-	"category": "Relity",
+	"category": "বাস্তবতা",
 	"isEvent": "false",
 	"icon": "https://imgtr.ee/images/2023/08/07/163bfdaa996a95d73584e4b3a808c518.png",
 	"images": [
@@ -252,7 +252,7 @@
         {"imageUrl": "https://user-images.githubusercontent.com/54734573/178098227-b7b98b7e-c752-4301-93b5-c8dab1d4dcac.png"}
 ]},
 {
-	"category": "Romantic",
+	"category": "রোমান্টিক",
 	"isEvent": "true",
 	"icon": "https://imgtr.ee/images/2023/08/07/163bfdaa996a95d73584e4b3a808c518.png",
 	"images": [
@@ -320,7 +320,7 @@
         {"imageUrl": "https://user-images.githubusercontent.com/54734573/178098236-c2ea4555-9f44-46a7-9085-f5b2184b6a07.png"}
 ]},
 {
-	"category": "Sad",
+	"category": "দুঃখ",
 	"isEvent": "false",
 	"icon": "https://imgtr.ee/images/2023/08/07/163bfdaa996a95d73584e4b3a808c518.png",
 	"images": [
@@ -448,7 +448,7 @@
         {"imageUrl": "https://user-images.githubusercontent.com/54734573/178098238-049a9c95-5948-4bf2-ab62-c3ac596a4333.png"}
 ]},
 {
-	"category": "Song",
+	"category": "গান",
 	"isEvent": "true",
 	"icon": "https://imgtr.ee/images/2023/08/07/163bfdaa996a95d73584e4b3a808c518.png",
 	"images": [

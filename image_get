@@ -321,7 +321,7 @@
 ]},
 {
 	"category": "BAALL",
-	"isEvent": "true",
+	"isEvent": "false",
 	"icon": "https://github.com/hackbypdf/abir0044/assets/147275710/252959d1-a0f0-4875-9c6e-3e140d20faf1",
 	"images": [
     	{"imageUrl": "https://github.com/hackbypdf/m/assets/147275710/25589fd0-ed27-4f4d-b6f2-d22d28d3a422"},
@@ -517,7 +517,7 @@
 ]},
 {
 	"category": "গান",
-	"isEvent": "true",
+	"isEvent": "false",
 	"icon": "https://github.com/hackbypdf/abir0044/assets/147275710/445da997-c947-466d-8a22-9667cbd1616c",
 	"images": [
 	{"imageUrl": "https://github.com/hackbypdf/m/assets/147275710/43d33a9a-d4f9-4af8-a100-cf17bd487727"},

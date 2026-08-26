@@ -1,4 +1,4 @@
 {
-"loadInterstitial": false,
+"loadInterstitial": true,
 "adLoadTimer": 1000
 }

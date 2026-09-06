@@ -4,5 +4,5 @@
 	"imageBanner": false,
 	"wallpaperNative": false,
   	"loadInterstitial": true,
-	"adLoadTimer": 180000
+	"adLoadTimer": 360000
 }
